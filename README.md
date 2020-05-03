@@ -2,5 +2,8 @@
 Code for The Produce Box Project
 
 Members: Anna Xu & Jason Lee 
-Customer Segmentation & New User Behaviour Analysis 
+
+_____ 
+
+Menu List Customer Segmentation & New User Behaviour Analysis 
 
